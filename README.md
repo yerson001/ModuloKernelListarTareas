@@ -15,7 +15,7 @@ Ejecutar
 
 Eliminar Modulo listar tareas:
 ~~~
-4- Ejecutar el comando "rmmod ListTasksLinear"
+4- Ejecutar el comando "rmmod Linear.ko"
 ~~~
 
 Repetir paso para el DFS
