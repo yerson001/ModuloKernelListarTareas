@@ -21,4 +21,4 @@ Eliminar Modulo listar tareas:
 Repetir paso para el DFS
 
 
-![img](https://github.com/yerson001/ModuloKelnelEnumerarTareas/blob/main/init2.PNG)
+![img](https://github.com/yerson001/ModuloKernelListarTareas/blob/main/P3.linear.PNG)
